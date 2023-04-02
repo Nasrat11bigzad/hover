@@ -1,0 +1,30 @@
+a {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: greenyellow;
+    text-decoration: none;
+    line-height: 90px;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    display: inline-block;
+    text-shadow: 5px 4px 1px goldenrod;
+}
+a:hover {
+    width: 230px;
+    height: 95px;
+    background-color: hotpink;
+    text-transform: capitalize;
+    font-size: 35px;
+    color: red;
+}
+a:visited {
+    color: maroon;
+    background-color: teal;
+}
+p {
+    text-indent: 30px;
+    text-align: justify;
+    white-space: normal;
+    line-height: 25px;
+}
